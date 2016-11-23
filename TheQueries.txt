@@ -1,1 +1,4 @@
-Put your queries here 
+use northwind;
+SELECT Title, FirstName, LastName
+ FROM employees 
+WHERE title = 'Sales Representative';
