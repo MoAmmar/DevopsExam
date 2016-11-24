@@ -1,0 +1,13 @@
+SELECT * FROM employees;
+
+SELECT * FROM inventory_transaction_types;
+
+SELECT * FROM inventory_transactions;order_details
+
+SELECT * FROM order_details;
+
+SELECT id, company
+FROM employees;
+
+SELECT last_name, first_name, email_address, job_title
+FROM shippers;
